@@ -1,5 +1,5 @@
 {
-  "name": "express-socialmedia-api",
+  "name": "typescript-rest-api",
   "version": "1.0.0",
   "description": "This is an API build with express.js and typescript.",
   "main": "index.ts",
